@@ -12,3 +12,12 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+div.friend {
+	max-width: 18vw;
+	font-size: large;
+}
+
+.friendName {
+	font-size: large;
+}
